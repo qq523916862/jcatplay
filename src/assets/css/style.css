@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?vtxcz1');
+  src:  url('../fonts/icomoon.eot?vtxcz1#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?vtxcz1') format('truetype'),
+    url('../fonts/icomoon.woff?vtxcz1') format('woff'),
+    url('../fonts/icomoon.svg?vtxcz1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="bsicon-"], [class*=" bsicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bsicon-beforeshoucang:before {
+  content: "\e900";
+}
+.bsicon-aftershoucang:before {
+  content: "\e901";
+}
+.bsicon-jump:before {
+  content: "\e902";
+}
+.bsicon-play1:before {
+  content: "\e903";
+}
+.bsicon-hold:before {
+  content: "\e904";
+}
+.bsicon-musicpush:before {
+  content: "\e905";
+}
+.bsicon-set:before {
+  content: "\e906";
+}
+.bsicon-shebei:before {
+  content: "\e907";
+}
+.bsicon-changjing:before {
+  content: "\e908";
+}
+.bsicon-jactive:before {
+  content: "\e909";
+}
+.bsicon-active:before {
+  content: "\e90a";
+}
+.bsicon-c:before {
+  content: "\e90b";
+}
+.bsicon-musictime:before {
+  content: "\e90c";
+}
+.bsicon-feel:before {
+  content: "\e90d";
+}
+.bsicon-style:before {
+  content: "\e90e";
+}
+.bsicon-last:before {
+  content: "\e90f";
+}
+.bsicon-next:before {
+  content: "\e910";
+}
+.bsicon-pause:before {
+  content: "\e911";
+}
+.bsicon-play:before {
+  content: "\e912";
+}
+.bsicon-set2:before {
+  content: "\e913";
+}
+.bsicon-set1:before {
+  content: "\e914";
+}
+.bsicon-close:before {
+  content: "\e915";
+}
+.bsicon-shuju:before {
+  content: "\e916";
+}
+.bsicon-listen:before {
+  content: "\e917";
+}
+.bsicon-suo:before {
+  content: "\e918";
+}
+.bsicon-home:before {
+  content: "\e919";
+}
+.bsicon-message1:before {
+  content: "\e91a";
+}
+.bsicon-message:before {
+  content: "\e91b";
+}
+.bsicon-opensuo:before {
+  content: "\e91c";
+}
+.bsicon-xh:before {
+  content: "\e91d";
+}
+.bsicon-dqxh:before {
+  content: "\e91e";
+}
+.bsicon-novolumn:before {
+  content: "\e91f";
+}
+.bsicon-volumn-s:before {
+  content: "\e920";
+}
+.bsicon-volumn-m:before {
+  content: "\e921";
+}
+.bsicon-mseeage2:before {
+  content: "\e922";
+}
+.bsicon-message3:before {
+  content: "\e923";
+}
+.bsicon-message4:before {
+  content: "\e924";
+}
+.bsicon-message5:before {
+  content: "\e925";
+}
+.bsicon-home1:before {
+  content: "\e926";
+}
+.bsicon-home2:before {
+  content: "\e927";
+}
+.bsicon-rd:before {
+  content: "\e928";
+}
+.bsicon-nd:before {
+  content: "\e929";
+}
+.bsicon-st:before {
+  content: "\e92a";
+}
+.bsicon-music-menu:before {
+  content: "\e92b";
+}
+.bsicon-music:before {
+  content: "\e92c";
+}
